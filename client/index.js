@@ -1,3 +1,6 @@
+import 'jquery'
+import 'bootstrap/dist/js/bootstrap.min.js'
+import 'bootstrap/dist/css/bootstrap.min.css'
 import 'babel-polyfill'
 import { trigger } from 'redial'
 
